@@ -1,2 +1,2 @@
 # Ferramenta_excell_DIO
-Uma ferramenta criada no Excell para coletar informações do imposto de renda
+Uma ferramenta criada no Excel para coletar informações do imposto de renda, de primeiro inicio criei junto com meu professor da DIO o menu e algumas funcionalidades de hiperlink, Função no VB, depois fizemoas as tabelas de cada "página" e o que cada um faz, fiz de resto alterações de certas imagens apenas. Pretendo futuramente melhorar ou altera-lo conforme minhas necessidades.
